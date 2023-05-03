@@ -1,0 +1,50 @@
+[
+    {
+        "id": "1",
+        "chef_picture": "https://i.ibb.co/LNp2bHL/johnathan-macedo-4-NQEvx-W2-4w-unsplash.jpg",
+        "chef_name": "Somchai Supasorn",
+        "years_of_experience": 5,
+        "number_of_recipes": 50,
+        "likes": 100
+      },
+      {
+        "id": "2",
+        "chef_picture": "https://i.ibb.co/xfZM8Xq/rc-cf-FMh5o5m5-N9-E-unsplash.jpg",
+        "chef_name": "Nongkran Daks",
+        "years_of_experience": 7,
+        "number_of_recipes": 75,
+        "likes": 200
+      },
+      {
+        "id": "3",
+        "chef_picture": "https://i.ibb.co/wBbm4xj/jeff-siepman-z-Ixd-GQ7l-PU-unsplash.jpg",
+        "chef_name": "Saran Sirilak",
+        "years_of_experience": 15,
+        "number_of_recipes": 120,
+        "likes": 300
+      },
+      {
+        "id": "4",
+        "chef_picture": "https://i.ibb.co/Gxj3RBW/redcharlie-redcharlie1-t-7-KEq9-M0b0-unsplash.jpg",
+        "chef_name": "Saran Daks",
+        "years_of_experience": 10,
+        "number_of_recipes": 90,
+        "likes": 150
+      },
+      {
+        "id": "5",
+        "chef_picture": "https://i.ibb.co/X4jSLsv/bluebird-provisions-l-RAWc-T7uwh-Y-unsplash.jpg",
+        "chef_name": "Pim Techawuan",
+        "years_of_experience": 3,
+        "number_of_recipes": 30,
+        "likes": 50
+      },
+      {
+        "id": "6",
+        "chef_picture": "https://i.ibb.co/CwhPL62/mohamed-nohassi-Ddgl-Eo-IC2y4-unsplash.jpg",
+        "chef_name": "Pim Saran",
+        "years_of_experience": 5,
+        "number_of_recipes": 30,
+        "likes": 500
+      }
+    ]
